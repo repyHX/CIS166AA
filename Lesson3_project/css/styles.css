@@ -1,0 +1,13 @@
+/* Hernan Acosta HER2138151 8/28/22*/
+
+.container{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#avengers-bg{
+    background-color: green;
+    padding: 10px;
+    color: white;
+}
